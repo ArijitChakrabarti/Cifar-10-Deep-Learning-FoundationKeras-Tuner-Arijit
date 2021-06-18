@@ -31,3 +31,5 @@ Hence the project itself can actually be summarized in the following manner:
         | Hyperband serach | Random search | Bayesian Optimization | 
 <br><br>
 - Comparision of the outcomes of the different models 
+
+You can download the CIFAR 10 dataset from kaggle -> https://www.kaggle.com/c/cifar-10
