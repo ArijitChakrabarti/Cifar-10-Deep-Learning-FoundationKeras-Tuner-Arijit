@@ -1,7 +1,7 @@
 # Object Recognition from  CIFAR 10 images
 <center><img src="https://github.com/ArijitChakrabarti/Cifar-10-Deep-Learning-FoundationKeras-Tuner-Arijit/blob/main/CIFAR-10-intro.jpg?raw=true" /></center>
 
-<h2><center>'A picture is worth a thousand words'</center></h2>
+<h2><center>'One picture is worth a thousand words'</center></h2>
 <div style="text-align: center"> -Albert Einstein</div><br>
 
 ***
